@@ -1,0 +1,7 @@
+# 签名密钥与本地配置（勿提交）
+*.keystore
+*.jks
+local.properties
+# 构建产物
+build/
+.gradle/

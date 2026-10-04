@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">违章警报</string>
+    <string-array name="sound_names">
+        <item>警车警笛</item>
+        <item>消防车警笛</item>
+        <item>救护车警笛</item>
+        <item>防空警报</item>
+        <item>电子蜂鸣</item>
+    </string-array>
+</resources>
