@@ -47,6 +47,12 @@
 用 Android Studio 打开本项目即可编译（minSdk 26，targetSdk 34）。
 Release 包需自行生成签名密钥并签名，签名密钥请勿提交到仓库。
 
+## 请我喝瓶水
+
+如果这个 App 对你有用，欢迎打赏支持，金额随意：
+
+[爱发电主页](https://afdian.com/a/violationguard)
+
 ## 免责
 
 本项目仅供学习交流。短信关键词匹配为启发式规则，不保证覆盖所有交管短信；
